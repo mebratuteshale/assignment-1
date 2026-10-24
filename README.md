@@ -24,8 +24,15 @@ elif bmi<25:
 else:
     print("---------- Over weight: ",bmi," ----------")
 ```
-**Run the bmi.py use IDLE**
+### Run the bmi.py
 
-Goto `Run` in the menu bar and select `Run module`
+Goto `Run` in the IDLE menu bar and select `Run module`
 
-"**Basic git commands** \n ``` \n git status \n git add \n git commit git push \n git pull```"
+### Basic git commands
+``` 
+git status
+git add
+git commit
+git push
+git pull
+```
