@@ -24,3 +24,4 @@ elif bmi<25:
 else:
     print("---------- Over weight: ",bmi," ----------")
 ```
+'To run the bmi.py use IDLE' 
