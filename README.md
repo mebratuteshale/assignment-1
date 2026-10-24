@@ -1,7 +1,7 @@
 ### Statistical Computing Git assignment
 #### Introdution to Python
 
-In python we use the `print` functions to send output to console and 'input' function to get input from user.
+In python we use the `print` functions to send output to console and `input` function to get input from user.
 
 The **BMI - calculator** illustrates the use of `print` and `input` python functions
 
@@ -18,9 +18,9 @@ h=float(height)
 bmi=w/(h*h)
 
 if bmi<=18:
-    print("===== Under weight: ",bmi," ======")
+    print("---------- Under weight: ",bmi," ----------")
 elif bmi<25:
-    print("===== Normal : ",bmi," =====")
+    print("---------- Normal : ",bmi," ----------")
 else:
-    print("==== Over weight: ",bmi," =====")
+    print("---------- Over weight: ",bmi," ----------")
 ```
