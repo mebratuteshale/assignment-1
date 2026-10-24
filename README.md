@@ -16,7 +16,7 @@ In python we use the `print` functions to send output to console and `input` fun
 * README file is documentation for the project
 * bmi.py is the python script to calculate BMI
 * screenshot of commits.png is an image showing the commit commands applied to the online repo.
-* 
+  
 The **BMI - calculator** illustrates the use of `print` and `input` python functions
 
 ```
