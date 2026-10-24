@@ -43,4 +43,4 @@ else:
 Goto `Run` in the IDLE menu bar and select `Run module`
 
 ### Author
-Mebratu Teshale
+Mebratu T.
