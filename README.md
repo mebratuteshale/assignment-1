@@ -25,5 +25,6 @@ else:
     print("---------- Over weight: ",bmi," ----------")
 ```
 **Run the bmi.py use IDLE**
+
 Goto `Run` in the menu bar and select `Run module`
 
