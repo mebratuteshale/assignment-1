@@ -28,3 +28,4 @@ else:
 
 Goto `Run` in the menu bar and select `Run module`
 
+"**Basic git commands** \n ``` \n git status \n git add \n git commit git push \n git pull```"
